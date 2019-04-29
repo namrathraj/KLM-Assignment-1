@@ -1,2 +1,4 @@
-# KLM-Assignment-1
-KLM Assignment 1
+This is a Angular 7 project.
+Node is need.
+Kindly do npm install and then 
+ng serve to run the application
